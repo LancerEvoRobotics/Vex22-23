@@ -1,0 +1,4 @@
+//Red Left: Where To Place Bot: Place bot in front of RED LEFT roller. Code For Bot: Code bot to move backwards (strif) if necessary. What Sensor Does: Have sensor spin to the color RED and then stop.
+//Red Right: Where To Place Bot: Place bot on the left tile from the roller. Code For Bot: Code the bot to move right (strif) until it gets in front of the roller then code it to move backwards (strif) until it reaches the roller. What Sensor Does: Have sensor spin to the color RED and then stop
+//Red Side Shooting Disc From Left: After changing the roller. Code For Bot: Code the bot to turn left then fire two disc then turn left again so intake is facing disc on ground.END. 
+//Red side Shooting Disc From Right: After robot spins the roller to team color turn right then shoot pre loaded disc.
